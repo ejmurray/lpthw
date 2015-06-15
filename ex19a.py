@@ -13,6 +13,7 @@ price_of_gas = float(raw_input(b))
 distance = float(raw_input(c))
 
 # using float will allow decimal numbers
+# here are some new comments for this file
 
 
 def journey_cost(mpg, price_of_gas, distance):
